@@ -1,5 +1,8 @@
 {
   "name": "evolution-api",
+  "engines": {
+    "node": ">=20.0.0"
+  },
   "version": "2.2.3",
   "description": "Rest api for communication with WhatsApp",
   "main": "./dist/main.js",
